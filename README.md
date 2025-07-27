@@ -1,3 +1,4 @@
+[![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/ShadowMask.png ' ')](https://github.com/proceduralit/ShadowMask)
 [![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/ShadowMask.jpg ' ')](https://github.com/proceduralit/ShadowMask)
 [![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/WFC_HextileSolver.jpg ' ')](https://github.com/proceduralit/WFC_Hextile)
 [![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/HexTiling_HoudiniHDA.jpg ' ')](https://github.com/proceduralit/PI_Sandbox/wiki/Hextile---Houdini-HDA)
