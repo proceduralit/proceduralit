@@ -1,5 +1,5 @@
 [![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/ShadowMask.png 'UnrealEngine - Custom Shadow Mask - Shader and Niagara')](https://github.com/proceduralit/ShadowMask)
-[![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/WFC_HextileSolver.jpg 'UnrealEngine - Wave Function Collapse - Hextile Solver')](https://github.com/proceduralit/WFC_Hextile)
+[![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/WFC.png 'UnrealEngine - Wave Function Collapse - Hextile Solver')](https://github.com/proceduralit/WFC_Hextile)
 [![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/Hextile_Houdini.png 'Houdini - Hextile Repetition Remove Solver')](https://github.com/proceduralit/PI_Sandbox/wiki/Hextile---Houdini-HDA)
 [![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/Hextile_UE.png 'UnrealEngine - Hextile Repetition Remove Solver')](https://github.com/proceduralit/PI_Sandbox/wiki/Hextile---UE-Custom-Shader---HLSL)
 [![](https://raw.githubusercontent.com/proceduralit/proceduralit/main/images/Bluca.png 'UnrealEngine - Shader')](https://github.com/proceduralit/UE4-Bluca)
